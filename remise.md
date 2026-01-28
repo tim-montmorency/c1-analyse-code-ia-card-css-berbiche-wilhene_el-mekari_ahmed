@@ -7,4 +7,4 @@
 ## Équipe
 
 - Wilhene Berbiche
-- El-Mekari Ahmed
+- El-Mekari Ahmed.
